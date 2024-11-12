@@ -1,1 +1,11 @@
-streamlit==1.40.0
+streamlit
+transformers
+torch
+nltk
+python-dotenv
+groq
+spacy
+language_tool_python
+scikit-learn
+huggingface_hub
+spacy-transformers
